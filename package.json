@@ -1,12 +1,14 @@
 {
   "name": "programmability",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
+  "author": "Julianne Adams <julianne@julianneadams.info>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "jest --watch"
   },
   "dependencies": {
     "@types/node": "18.11.18",
