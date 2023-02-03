@@ -12,7 +12,7 @@ export default function Home() {
           href="https://use.typekit.net/kff0gah.css"
         ></link>
       </Head>
-      <h1>Hello World!</h1>
+      <h1 className="text-3xl font-bold text-purple-400">Hello World!</h1>
     </div>
   );
 }
